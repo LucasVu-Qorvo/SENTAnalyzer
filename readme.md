@@ -160,3 +160,4 @@ At the moment, the output format looks like this:
 
 Note that more formats will likely be added, as the format shown above does not allow for the fastest data processing. We will likely add a format that groups the
 for a single SENT frame on a single line (with a timestamp for the beginning of the SENT message)
+
